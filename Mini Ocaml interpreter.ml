@@ -252,32 +252,3 @@ let checkStr s = check empty (fst(exp( lex s ) ))
 let evalStr s = eval empty (fst(exp( lex s ) )) 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
